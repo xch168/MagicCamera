@@ -1,0 +1,56 @@
+
+{
+	"buildFiles" : [ "D:/debug/Android/MagicCamera/magicfilter/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"D:\\AndroidStudio\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\debug\\Android\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MagicBeautify-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "MagicBeautify",
+			"buildCommand" : "D:\\AndroidStudio\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\debug\\Android\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target MagicBeautify",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/AndroidStudio/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidStudio/sdk/ndk-bundle/sysroot  -DMagicBeautify_EXPORTS -I..\\..\\..\\..\\.\\src\\main\\cpp -I..\\..\\..\\..\\.\\src\\main\\cpp\\bitmap -I..\\..\\..\\..\\.\\src\\main\\cpp\\beautify -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\android\\support\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem D:/AndroidStudio/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/debug/Android/MagicCamera/magicfilter/src/main/cpp/MagicJni.cpp",
+					"workingDirectory" : "D:/debug/Android/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/AndroidStudio/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidStudio/sdk/ndk-bundle/sysroot  -DMagicBeautify_EXPORTS -I..\\..\\..\\..\\.\\src\\main\\cpp -I..\\..\\..\\..\\.\\src\\main\\cpp\\bitmap -I..\\..\\..\\..\\.\\src\\main\\cpp\\beautify -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\android\\support\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem D:/AndroidStudio/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/debug/Android/MagicCamera/magicfilter/src/main/cpp/bitmap/BitmapOperation.cpp",
+					"workingDirectory" : "D:/debug/Android/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/AndroidStudio/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidStudio/sdk/ndk-bundle/sysroot  -DMagicBeautify_EXPORTS -I..\\..\\..\\..\\.\\src\\main\\cpp -I..\\..\\..\\..\\.\\src\\main\\cpp\\bitmap -I..\\..\\..\\..\\.\\src\\main\\cpp\\beautify -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\android\\support\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem D:/AndroidStudio/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/debug/Android/MagicCamera/magicfilter/src/main/cpp/bitmap/Conversion.cpp",
+					"workingDirectory" : "D:/debug/Android/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/AndroidStudio/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidStudio/sdk/ndk-bundle/sysroot  -DMagicBeautify_EXPORTS -I..\\..\\..\\..\\.\\src\\main\\cpp -I..\\..\\..\\..\\.\\src\\main\\cpp\\bitmap -I..\\..\\..\\..\\.\\src\\main\\cpp\\beautify -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\android\\support\\include -isystem D:\\AndroidStudio\\sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem D:/AndroidStudio/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/debug/Android/MagicCamera/magicfilter/src/main/cpp/beautify/MagicBeautify.cpp",
+					"workingDirectory" : "D:/debug/Android/MagicCamera/magicfilter/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "D:/debug/Android/MagicCamera/magicfilter/build/intermediates/cmake/debug/obj/armeabi-v7a/libMagicBeautify.so",
+			"toolchain" : "2800791657"
+		}
+	},
+	"toolchains" : 
+	{
+		"2800791657" : 
+		{
+			"cCompilerExecutable" : "D:/AndroidStudio/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/AndroidStudio/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

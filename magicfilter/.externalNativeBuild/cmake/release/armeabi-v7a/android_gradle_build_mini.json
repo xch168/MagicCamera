@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\debug\\Android\\MagicCamera\\magicfilter\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AndroidStudio\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\debug\\Android\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "MagicBeautify-Release-armeabi-v7a": {
+      "artifactName": "MagicBeautify",
+      "buildCommand": "D:\\AndroidStudio\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\debug\\Android\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target MagicBeautify",
+      "abi": "armeabi-v7a",
+      "output": "D:\\debug\\Android\\MagicCamera\\magicfilter\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libMagicBeautify.so"
+    }
+  }
+}

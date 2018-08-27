@@ -1,0 +1,5 @@
+# ninja log v5
+140	418	0	CMakeFiles/MagicBeautify.dir/src/main/cpp/bitmap/Conversion.cpp.o	6cadaa987b89c41a
+113	471	0	CMakeFiles/MagicBeautify.dir/src/main/cpp/MagicJni.cpp.o	3aebbe24443250a2
+87	486	0	CMakeFiles/MagicBeautify.dir/src/main/cpp/bitmap/BitmapOperation.cpp.o	420c02c48a5f5f7d
+2	565	0	CMakeFiles/MagicBeautify.dir/src/main/cpp/beautify/MagicBeautify.cpp.o	2b40570c8e6f28fd

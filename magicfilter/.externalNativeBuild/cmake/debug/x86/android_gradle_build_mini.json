@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\debug\\Android\\MagicCamera\\magicfilter\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AndroidStudio\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\debug\\Android\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "MagicBeautify-Debug-x86": {
+      "artifactName": "MagicBeautify",
+      "buildCommand": "D:\\AndroidStudio\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\debug\\Android\\MagicCamera\\magicfilter\\.externalNativeBuild\\cmake\\debug\\x86 --target MagicBeautify",
+      "abi": "x86",
+      "output": "D:\\debug\\Android\\MagicCamera\\magicfilter\\build\\intermediates\\cmake\\debug\\obj\\x86\\libMagicBeautify.so"
+    }
+  }
+}
